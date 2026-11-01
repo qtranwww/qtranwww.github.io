@@ -1,4 +1,6 @@
 info/
 node_modules/
 build/
+dist/
 .env
+.parcel-cache/
